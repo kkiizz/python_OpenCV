@@ -38,5 +38,5 @@ def save_frame(video_path, per_sec=30):
             )
 
 if __name__ == "__main__":    
-    path = ""
+    path = "ここに対象のパスを入力"
     save_frame(path)
